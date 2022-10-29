@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 It was the best of the times. It was the worst of the times
 But as you can tell I didn't care whatever it was
-=======
-It was the best of the times. It was the worst of the times 
-But as you can tell I didn't care whatever it was 
->>>>>>> alien-plot
+
